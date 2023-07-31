@@ -2,7 +2,7 @@
 Small program that manages a database of students with commands from the user.
 This project has the following commands:
 
--**A** (Add command) adds a new student to the database. Format: A _student-number_ _surname_ _name_
+-**A** (Add command) adds a new student to the database. Format: A student-number surname name
 
 -**L** (List command) prints the database content. Format: L
 
